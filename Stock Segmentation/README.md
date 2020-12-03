@@ -1,1 +1,2 @@
-
+# Segmentation of stock based on frequency of purchase, quantity of purchase of stocks to enable better inventory management.
+The company sells a vast range of products to customers in various locations that would involve shipping. Also, the rate of purchase is not common throughout the year.The movement of products from the shelves also varies. Considering that the product is gift item, it becomes imperative that the stocks be available on demand to ensure that the delivery dates are met. How do we classify the products under different classes to ensure proper availability of stock, to avoid delays of delivery and also to avoid a particular product staying in the shelves for too long?
